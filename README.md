@@ -1,1 +1,1 @@
-# verus
+# verus-ubuntu
